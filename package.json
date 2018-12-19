@@ -1,0 +1,19 @@
+{
+  "name": "u_egg_web_base",
+  "version": "0.0.1",
+  "description": "u_egg_web_base",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasLiu/u_egg_web_base.git"
+  },
+  "author": "Thomas Lau (thomas_0836@qq.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasLiu/u_egg_web_base/issues"
+  },
+  "homepage": "https://github.com/ThomasLiu/u_egg_web_base#readme"
+}
