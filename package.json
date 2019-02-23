@@ -1,6 +1,6 @@
 {
   "name": "u_egg_web_base",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "u_egg_web_base",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ThomasLiu/u_egg_web_base/issues"
   },
-  "homepage": "https://github.com/ThomasLiu/u_egg_web_base#readme"
+  "homepage": "https://github.com/ThomasLiu/u_egg_web_base#readme",
+  "dependencies": {
+    "qs": "^6.6.0"
+  }
 }
